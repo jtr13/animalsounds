@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.3
+pkgdown_sha: ~
+articles:
+  animalsounds: animalsounds.html
+  dogsounds: dogsounds.html
+last_built: 2025-07-15T15:56Z
+urls:
+  reference: https://jtr13.github.io/animalsounds/reference
+  article: https://jtr13.github.io/animalsounds/articles
