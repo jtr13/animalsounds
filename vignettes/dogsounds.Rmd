@@ -19,3 +19,5 @@ library(animalsounds)
 animal_sounds("dog", "France", "LeWoof")
 animal_sounds("dog", "USA", "woof woof")
 ```
+
+This is an equation $a^2 + b^2 = c^2$
