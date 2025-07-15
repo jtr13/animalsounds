@@ -21,3 +21,5 @@ animal_sounds("dog", "USA", "woof woof")
 ```
 
 This is an equation $a^2 + b^2 = c^2$
+
+This is a fraction: $\frac{121}{6123}$
