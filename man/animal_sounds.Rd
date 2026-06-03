@@ -2,23 +2,21 @@
 % Please edit documentation in R/animal_sounds.R
 \name{animal_sounds}
 \alias{animal_sounds}
-\title{Title}
+\title{Create a String Giving the Sound an Animal Makes}
 \usage{
 animal_sounds(animal, sound)
 }
 \arguments{
-\item{animal}{a character string naming an animal}
+\item{animal}{a character string specifying an animal}
 
-\item{sound}{a character string giving the animal sound}
+\item{sound}{a character string specifying the animal sound}
 }
 \value{
-a string of the form "The animal says sound!"
+A string of the form "The animal says sound!"
 }
 \description{
-Description here
-}
-\details{
-This function uses \code{\link[=paste0]{paste0()}}.
+Given an animal and a sound, create a string that expresses
+this information using \code{\link[=paste0]{paste0()}}.
 }
 \examples{
 animal_sounds("dog", "woof")

@@ -1,13 +1,12 @@
-#' Title
+#' Create a String Giving the Sound an Animal Makes
 #'
-#' Description here
+#' Given an animal and a sound, create a string that expresses
+#' this information using [paste0()].
 #'
-#' This function uses [paste0()].
+#' @param animal a character string specifying an animal
+#' @param sound a character string specifying the animal sound
 #'
-#' @param animal a character string naming an animal
-#' @param sound a character string giving the animal sound
-#'
-#' @return a string of the form "The animal says sound!"
+#' @return A string of the form "The animal says sound!"
 #' @export
 #'
 #' @examples
