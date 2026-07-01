@@ -1,8 +1,8 @@
 Package: animalsounds
 Title: States the Sound an Animal Makes
-Version: 0.0.0.9001
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre", "ctb"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
