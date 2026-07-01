@@ -1,0 +1,42 @@
+# animalsounds
+
+The goal of animalsounds is to …
+
+## Installation
+
+You can install the development version of animalsounds from
+[GitHub](https://github.com/) with:
+
+``` r
+
+# install.packages("pak")
+pak::pak("jtr13/animalsounds")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+
+library(animalsounds)
+animal_sounds("dog", "guau")
+#> [1] "The dog says guau!"
+```
+
+# Package index
+
+## All functions
+
+- [`animal_sounds()`](https://jtr13.github.io/animalsounds/reference/animal_sounds.md)
+  : Create a String Giving the Sound an Animal Makes
+- [`farm_animals`](https://jtr13.github.io/animalsounds/reference/farm_animals.md)
+  : Farm animal names, sounds and feed
+- [`letter_indices`](https://jtr13.github.io/animalsounds/reference/letter_indices.md)
+  : Letters of the Roman Alphabet with Indices
+
+# Articles
+
+### All vignettes
+
+- [animalsounds](https://jtr13.github.io/animalsounds/articles/animalsounds.md):
